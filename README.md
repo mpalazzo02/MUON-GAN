@@ -1,5 +1,6 @@
 # MUON-GAN
 Wasserstein, Vanilla GAN and augmented Vanilla GAN with XGBOOST decision tree. Suitable for any multi-dimensional non discrete distribution approximation. Layer changes to the architecture are required if image production is required.
+
 Overview
 
 This project explores the use of Generative Adversarial Networks (GANs) to improve the efficiency and fidelity of simulations, specifically focusing on the simulation of muons in the SHiP experiment. The primary goal of this project was to enhance the accuracy and convergence speed of GAN-generated muon distributions compared to traditional simulation methods.
